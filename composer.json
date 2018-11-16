@@ -3,6 +3,6 @@
     "description": "All sorts of things about apples",
     "require": {
         "php": "^5.3.3 || ^7.0",
-        "demontweeks-simon/apples-stuff": "dev-master"
+        "demontweeks-simon/apples-stuff": "@dev"
     }
 }
