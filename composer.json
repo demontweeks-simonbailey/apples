@@ -2,7 +2,7 @@
     "name": "demontweeks-simon/my-apples-package",
     "description": "All sorts of things about apples",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": ">=5.3.0",
         "demontweeks-simon/apples-stuff": "dev-master"
     }
 }
