@@ -1,8 +1,4 @@
 {
     "name": "demontweeks-simon/my-apples-package",
     "description": "All sorts of things about apples",
-    "require": {
-        "php": "^5.3.3 || ^7.0",
-        "parcelpet-simon/apples": "dev-master"
-    }
 }
