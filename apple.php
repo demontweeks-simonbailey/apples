@@ -11,7 +11,7 @@
   array_push($applesArray,"sliced in fruit salad");
   array_push($applesArray,"shiny, shiny apples");
   array_push($applesArray,"Something else about apples from ipad");
-  //NOTE: Update from ipad
+  array_push($applesArray,"Enough about apples, already");
 
   for($i = 0; $i < count($applesArray); $i++){
     $apples .= $applesArray[$i] . $br;
