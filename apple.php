@@ -1,6 +1,6 @@
 <?php
 
-  $applesArray = new array();
+  $applesArray = [];
   $br = "<br />";
 
   array_push($applesArray,"I like apples");
